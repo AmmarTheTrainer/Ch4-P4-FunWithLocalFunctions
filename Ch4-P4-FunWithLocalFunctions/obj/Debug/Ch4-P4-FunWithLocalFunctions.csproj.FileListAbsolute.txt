@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\Ch4-P4-FunWithLocalFunctions\Ch4-P4-FunWithLocalFunctions\bin\Debug\Ch4-P4-FunWithLocalFunctions.exe.config
+C:\Users\Lenovo\Documents\Projects\Ch4-P4-FunWithLocalFunctions\Ch4-P4-FunWithLocalFunctions\bin\Debug\Ch4-P4-FunWithLocalFunctions.exe
+C:\Users\Lenovo\Documents\Projects\Ch4-P4-FunWithLocalFunctions\Ch4-P4-FunWithLocalFunctions\bin\Debug\Ch4-P4-FunWithLocalFunctions.pdb
+C:\Users\Lenovo\Documents\Projects\Ch4-P4-FunWithLocalFunctions\Ch4-P4-FunWithLocalFunctions\obj\Debug\Ch4-P4-FunWithLocalFunctions.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Ch4-P4-FunWithLocalFunctions\Ch4-P4-FunWithLocalFunctions\obj\Debug\Ch4-P4-FunWithLocalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Ch4-P4-FunWithLocalFunctions\Ch4-P4-FunWithLocalFunctions\obj\Debug\Ch4-P4-FunWithLocalFunctions.exe
+C:\Users\Lenovo\Documents\Projects\Ch4-P4-FunWithLocalFunctions\Ch4-P4-FunWithLocalFunctions\obj\Debug\Ch4-P4-FunWithLocalFunctions.pdb
